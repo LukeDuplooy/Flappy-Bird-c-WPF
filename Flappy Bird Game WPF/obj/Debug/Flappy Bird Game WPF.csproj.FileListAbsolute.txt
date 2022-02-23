@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\bin\Debug\Flappy Bird Game WPF.exe.config
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\bin\Debug\Flappy Bird Game WPF.exe
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\bin\Debug\Flappy Bird Game WPF.pdb
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\Flappy Bird Game WPF.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\Flappy Bird Game WPF_MarkupCompile.cache
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\Flappy Bird Game WPF_MarkupCompile.lref
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\Flappy Bird Game WPF.g.resources
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\Flappy_Bird_Game_WPF.Properties.Resources.resources
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\Flappy Bird Game WPF.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\Flappy Bird Game WPF.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\Flappy Bird Game WPF.exe
+C:\Users\admin\Desktop\portfolio\Flappy Bird Game WPF\Flappy Bird Game WPF\obj\Debug\Flappy Bird Game WPF.pdb
